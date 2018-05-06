@@ -1,0 +1,11 @@
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.deps.json
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.runtimeconfig.json
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.runtimeconfig.dev.json
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.dll
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.pdb
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.csprojResolveAssemblyReference.cache
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.csproj.CoreCompileInputs.cache
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.AssemblyInfoInputs.cache
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.AssemblyInfo.cs
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.dll
+c:\users\s2k\source\repos\Recursion\Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.pdb

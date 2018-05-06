@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\bin\Debug\netcoreapp2.0\06. 8Queens Puzzle.deps.json
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\bin\Debug\netcoreapp2.0\06. 8Queens Puzzle.runtimeconfig.json
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\bin\Debug\netcoreapp2.0\06. 8Queens Puzzle.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\bin\Debug\netcoreapp2.0\06. 8Queens Puzzle.dll
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\bin\Debug\netcoreapp2.0\06. 8Queens Puzzle.pdb
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\obj\Debug\netcoreapp2.0\06. 8Queens Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\obj\Debug\netcoreapp2.0\06. 8Queens Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\obj\Debug\netcoreapp2.0\06. 8Queens Puzzle.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\obj\Debug\netcoreapp2.0\06. 8Queens Puzzle.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\obj\Debug\netcoreapp2.0\06. 8Queens Puzzle.dll
+C:\Users\s2k\source\repos\Recursion\06. 8Queens Puzzle\obj\Debug\netcoreapp2.0\06. 8Queens Puzzle.pdb

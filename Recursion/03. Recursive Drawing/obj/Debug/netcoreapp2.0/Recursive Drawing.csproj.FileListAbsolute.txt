@@ -1,0 +1,11 @@
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\bin\Debug\netcoreapp2.0\Recursive Drawing.deps.json
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\bin\Debug\netcoreapp2.0\Recursive Drawing.runtimeconfig.json
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\bin\Debug\netcoreapp2.0\Recursive Drawing.runtimeconfig.dev.json
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\bin\Debug\netcoreapp2.0\Recursive Drawing.dll
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\bin\Debug\netcoreapp2.0\Recursive Drawing.pdb
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\obj\Debug\netcoreapp2.0\Recursive Drawing.csproj.CoreCompileInputs.cache
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\obj\Debug\netcoreapp2.0\Recursive Drawing.AssemblyInfoInputs.cache
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\obj\Debug\netcoreapp2.0\Recursive Drawing.AssemblyInfo.cs
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\obj\Debug\netcoreapp2.0\Recursive Drawing.dll
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\obj\Debug\netcoreapp2.0\Recursive Drawing.pdb
+c:\users\s2k\source\repos\Recursion\Recursive Drawing\obj\Debug\netcoreapp2.0\Recursive Drawing.csprojResolveAssemblyReference.cache

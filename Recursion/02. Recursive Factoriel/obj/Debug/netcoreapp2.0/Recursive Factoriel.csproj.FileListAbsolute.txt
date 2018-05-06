@@ -1,0 +1,10 @@
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\bin\Debug\netcoreapp2.0\Recursive Factoriel.deps.json
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\bin\Debug\netcoreapp2.0\Recursive Factoriel.runtimeconfig.json
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\bin\Debug\netcoreapp2.0\Recursive Factoriel.runtimeconfig.dev.json
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\bin\Debug\netcoreapp2.0\Recursive Factoriel.dll
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\bin\Debug\netcoreapp2.0\Recursive Factoriel.pdb
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\obj\Debug\netcoreapp2.0\Recursive Factoriel.csproj.CoreCompileInputs.cache
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\obj\Debug\netcoreapp2.0\Recursive Factoriel.AssemblyInfoInputs.cache
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\obj\Debug\netcoreapp2.0\Recursive Factoriel.AssemblyInfo.cs
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\obj\Debug\netcoreapp2.0\Recursive Factoriel.dll
+c:\users\s2k\source\repos\Recursion\Recursive Factoriel\obj\Debug\netcoreapp2.0\Recursive Factoriel.pdb

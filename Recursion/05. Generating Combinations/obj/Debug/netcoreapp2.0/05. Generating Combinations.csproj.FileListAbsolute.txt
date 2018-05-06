@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.0\05. Generating Combinations.deps.json
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.0\05. Generating Combinations.runtimeconfig.json
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.0\05. Generating Combinations.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.0\05. Generating Combinations.dll
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.0\05. Generating Combinations.pdb
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.0\05. Generating Combinations.csprojResolveAssemblyReference.cache
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.0\05. Generating Combinations.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.0\05. Generating Combinations.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.0\05. Generating Combinations.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.0\05. Generating Combinations.dll
+C:\Users\s2k\source\repos\Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.0\05. Generating Combinations.pdb
