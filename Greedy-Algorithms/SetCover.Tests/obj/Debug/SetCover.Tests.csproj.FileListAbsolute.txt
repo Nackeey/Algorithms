@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\bin\Debug\SetCover.Tests.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\bin\Debug\SetCover.Tests.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\bin\Debug\SetCover.exe
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\bin\Debug\SetCover.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\bin\Debug\SetCover.exe.config
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\obj\Debug\SetCover.Tests.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\obj\Debug\SetCover.Tests.csproj.CopyComplete
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\obj\Debug\SetCover.Tests.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\obj\Debug\SetCover.Tests.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\SetCover.Tests\obj\Debug\SetCover.Tests.csprojAssemblyReference.cache

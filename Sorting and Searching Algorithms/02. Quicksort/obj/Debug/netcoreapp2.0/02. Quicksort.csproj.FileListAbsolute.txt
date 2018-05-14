@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\bin\Debug\netcoreapp2.0\02. Quicksort.deps.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\bin\Debug\netcoreapp2.0\02. Quicksort.runtimeconfig.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\bin\Debug\netcoreapp2.0\02. Quicksort.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\bin\Debug\netcoreapp2.0\02. Quicksort.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\bin\Debug\netcoreapp2.0\02. Quicksort.pdb
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\obj\Debug\netcoreapp2.0\02. Quicksort.csprojResolveAssemblyReference.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\obj\Debug\netcoreapp2.0\02. Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\obj\Debug\netcoreapp2.0\02. Quicksort.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\obj\Debug\netcoreapp2.0\02. Quicksort.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\obj\Debug\netcoreapp2.0\02. Quicksort.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\02. Quicksort\obj\Debug\netcoreapp2.0\02. Quicksort.pdb

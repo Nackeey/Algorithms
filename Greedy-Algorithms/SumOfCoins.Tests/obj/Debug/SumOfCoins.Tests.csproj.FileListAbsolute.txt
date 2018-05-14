@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\bin\Debug\SumOfCoins.Tests.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\bin\Debug\SumOfCoins.Tests.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\bin\Debug\SumOfCoins.exe
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\bin\Debug\SumOfCoins.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\bin\Debug\SumOfCoins.exe.config
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.csproj.CopyComplete
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.csprojAssemblyReference.cache

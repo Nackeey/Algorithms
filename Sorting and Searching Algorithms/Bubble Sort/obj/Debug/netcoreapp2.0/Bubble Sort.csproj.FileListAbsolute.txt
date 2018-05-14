@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\bin\Debug\netcoreapp2.0\Bubble Sort.deps.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\bin\Debug\netcoreapp2.0\Bubble Sort.runtimeconfig.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\bin\Debug\netcoreapp2.0\Bubble Sort.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\bin\Debug\netcoreapp2.0\Bubble Sort.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\bin\Debug\netcoreapp2.0\Bubble Sort.pdb
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\obj\Debug\netcoreapp2.0\Bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\obj\Debug\netcoreapp2.0\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\obj\Debug\netcoreapp2.0\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\obj\Debug\netcoreapp2.0\Bubble Sort.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\obj\Debug\netcoreapp2.0\Bubble Sort.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\Bubble Sort\obj\Debug\netcoreapp2.0\Bubble Sort.pdb

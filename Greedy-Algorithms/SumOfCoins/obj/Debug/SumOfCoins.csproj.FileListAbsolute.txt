@@ -1,0 +1,6 @@
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins\bin\Debug\SumOfCoins.exe.config
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins\bin\Debug\SumOfCoins.exe
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins\bin\Debug\SumOfCoins.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins\obj\Debug\SumOfCoins.exe
+C:\Users\s2k\source\repos\Greedy-Algorithms\SumOfCoins\obj\Debug\SumOfCoins.pdb

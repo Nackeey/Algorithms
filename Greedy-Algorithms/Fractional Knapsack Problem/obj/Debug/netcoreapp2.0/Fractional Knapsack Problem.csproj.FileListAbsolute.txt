@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\bin\Debug\netcoreapp2.0\Fractional Knapsack Problem.deps.json
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\bin\Debug\netcoreapp2.0\Fractional Knapsack Problem.runtimeconfig.json
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\bin\Debug\netcoreapp2.0\Fractional Knapsack Problem.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\bin\Debug\netcoreapp2.0\Fractional Knapsack Problem.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\bin\Debug\netcoreapp2.0\Fractional Knapsack Problem.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\obj\Debug\netcoreapp2.0\Fractional Knapsack Problem.csprojAssemblyReference.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\obj\Debug\netcoreapp2.0\Fractional Knapsack Problem.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\obj\Debug\netcoreapp2.0\Fractional Knapsack Problem.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\obj\Debug\netcoreapp2.0\Fractional Knapsack Problem.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\obj\Debug\netcoreapp2.0\Fractional Knapsack Problem.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\Fractional Knapsack Problem\obj\Debug\netcoreapp2.0\Fractional Knapsack Problem.pdb

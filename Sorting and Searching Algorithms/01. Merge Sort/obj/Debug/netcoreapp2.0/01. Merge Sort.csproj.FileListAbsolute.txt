@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\bin\Debug\netcoreapp2.0\01. Merge Sort.deps.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\bin\Debug\netcoreapp2.0\01. Merge Sort.runtimeconfig.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\bin\Debug\netcoreapp2.0\01. Merge Sort.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\bin\Debug\netcoreapp2.0\01. Merge Sort.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\bin\Debug\netcoreapp2.0\01. Merge Sort.pdb
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\obj\Debug\netcoreapp2.0\01. Merge Sort.csprojResolveAssemblyReference.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\obj\Debug\netcoreapp2.0\01. Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\obj\Debug\netcoreapp2.0\01. Merge Sort.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\obj\Debug\netcoreapp2.0\01. Merge Sort.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\obj\Debug\netcoreapp2.0\01. Merge Sort.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\01. Merge Sort\obj\Debug\netcoreapp2.0\01. Merge Sort.pdb

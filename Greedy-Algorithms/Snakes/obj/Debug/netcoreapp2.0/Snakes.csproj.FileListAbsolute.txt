@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\bin\Debug\netcoreapp2.0\Snakes.deps.json
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\bin\Debug\netcoreapp2.0\Snakes.runtimeconfig.json
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\bin\Debug\netcoreapp2.0\Snakes.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\bin\Debug\netcoreapp2.0\Snakes.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\bin\Debug\netcoreapp2.0\Snakes.pdb
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\obj\Debug\netcoreapp2.0\Snakes.csprojAssemblyReference.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\obj\Debug\netcoreapp2.0\Snakes.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\obj\Debug\netcoreapp2.0\Snakes.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\obj\Debug\netcoreapp2.0\Snakes.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\obj\Debug\netcoreapp2.0\Snakes.dll
+C:\Users\s2k\source\repos\Greedy-Algorithms\Snakes\obj\Debug\netcoreapp2.0\Snakes.pdb

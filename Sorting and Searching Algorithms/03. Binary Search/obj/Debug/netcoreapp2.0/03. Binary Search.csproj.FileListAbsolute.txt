@@ -1,0 +1,11 @@
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\bin\Debug\netcoreapp2.0\03. Binary Search.deps.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\bin\Debug\netcoreapp2.0\03. Binary Search.runtimeconfig.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\bin\Debug\netcoreapp2.0\03. Binary Search.runtimeconfig.dev.json
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\bin\Debug\netcoreapp2.0\03. Binary Search.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\bin\Debug\netcoreapp2.0\03. Binary Search.pdb
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\obj\Debug\netcoreapp2.0\03. Binary Search.csprojResolveAssemblyReference.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\obj\Debug\netcoreapp2.0\03. Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\obj\Debug\netcoreapp2.0\03. Binary Search.AssemblyInfoInputs.cache
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\obj\Debug\netcoreapp2.0\03. Binary Search.AssemblyInfo.cs
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\obj\Debug\netcoreapp2.0\03. Binary Search.dll
+C:\Users\s2k\source\repos\Sorting and Searching Algorithms\03. Binary Search\obj\Debug\netcoreapp2.0\03. Binary Search.pdb
